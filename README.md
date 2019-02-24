@@ -122,3 +122,4 @@ The evaluation outputs are saved into ```output/[EXP_DIR]/[db_name]/[net_name]``
 
 Please note that the detections will be cached by default and will not be re-computed again (the caching can be disabled by passing the ```--no_cache``` argument.)
 
+**make代码之后，生成的库文件在./build/路径下，需要手工复制到lib路径里边。 
